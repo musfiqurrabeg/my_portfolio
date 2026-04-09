@@ -132,40 +132,6 @@
       "thumb": "",
       "thumbEmoji": "🤖",
       "liveUrl": "#"
-    },
-    {
-      "id": 3,
-      "title": "VARECON Recon Framework",
-      "year": "2024",
-      "excerpt": "24-module Python reconnaissance framework for security research.",
-      "desc": "A modular Python-based recon framework with 24 independent modules covering subdomain enumeration, port scanning, OSINT collection, and vulnerability correlation. Built for structured bug bounty workflows.",
-      "tags": [
-        "Python",
-        "Asyncio",
-        "OSINT",
-        "Security",
-        "CLI"
-      ],
-      "thumb": "",
-      "thumbEmoji": "🛡️",
-      "liveUrl": "#"
-    },
-    {
-      "id": 4,
-      "title": "RAG Personal Assistant",
-      "year": "2024",
-      "excerpt": "FastAPI + FAISS powered personal AI assistant with document retrieval.",
-      "desc": "A local-first RAG (Retrieval Augmented Generation) assistant built with FastAPI, FAISS vector store, and Groq inference. Supports PDF ingestion, semantic search, and multi-turn conversation history.",
-      "tags": [
-        "FastAPI",
-        "FAISS",
-        "Groq",
-        "LangChain",
-        "Python"
-      ],
-      "thumb": "",
-      "thumbEmoji": "💬",
-      "liveUrl": "#"
     }
   ]
 }
