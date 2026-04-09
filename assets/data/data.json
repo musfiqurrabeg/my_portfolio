@@ -1,0 +1,171 @@
+{
+  "profile": {
+    "name": "Musfiqur Rahman Abeg",
+    "username": "musfiqurrabeg",
+    "role": "AI & Automation Developer",
+    "bio": "I'm Musfiqur Rahman Abeg — a CSE student at United International University, with a focused track in Cybersecurity and Artificial Intelligence.\n\nMy primary domain is cybersecurity. I study how systems are built, how they fail, and how to make them resilient. I work with offensive security concepts, vulnerability research, and security-first engineering — the technical depth that separates real security work from surface-level tool usage.\n\nAI is my second weapon. I've worked on Data Science and machine learning projects that gave me a strong foundation in how intelligent systems are designed, trained, and deployed. That background directly informs how I approach automation, anomaly detection, and AI-assisted security tooling.\n\nOn the applied side, I have practical experience in Google Ads, SEO/GEO. I understand how digital ecosystems function end-to-end — search infrastructure, content visibility, paid acquisition, and geographic targeting. This isn't a side hobby. It's where I've developed real-world problem solving and client-facing execution skills.\n\nCurrently pursuing my degree. Actively building projects. Open to freelance, collaborative, and full-time opportunities.",
+    "email": "musfiqurabeg@outlook.com",
+    "phone": "+880 19  7252  1430",
+    "location": "Dhaka, Bangladesh",
+    "github": "https://github.com/musfiqurrabeg",
+    "linkedin": "https://www.linkedin.com/in/musfiqurrabeg/",
+    "twitter": "https://x.com/musfiqurr_abeg",
+    "facebook": "https://www.facebook.com/musfiqurr.abeg",
+    "instagram": "https://www.instagram.com/musfiqur_abeg/",
+    "upwork": "#",
+    "avatar": "./assets/img/profile.JPG"
+  },
+  "services": [
+    {
+      "id": 1,
+      "icon": "🏛️",
+      "title": "Student at UIU",
+      "desc": "Currently studying B.Sc. in Computer Science at United International University. Focus on Software Engineering and AI/ML fundamentals."
+    },
+    {
+      "id": 2,
+      "icon": "🤖",
+      "title": "AI Automation & Development",
+      "desc": "n8n workflows, AI pipelines, and process automation that eliminate repetitive work and scale output."
+    },
+    {
+      "id": 3,
+      "icon": "🔍",
+      "title": "Ads and SEO",
+      "desc": "paid, organic, and AI — engineered to compound"
+    },
+    {
+      "id": 4,
+      "icon": "🤖",
+      "title": "Cybersecurity",
+      "desc": "Vulnerability assessment, penetration testing, and security hardening for web applications and digital infrastructure."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "period": "Present",
+      "title": "Nothing",
+      "org": "Nothing",
+      "desc": "Nothing"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "period": "2024 — Present",
+      "title": "B.Sc. in Computer Science",
+      "org": "United International University, Dhaka",
+      "desc": "6th trimester."
+    },
+    {
+      "id": 2,
+      "period": "2022 — 2023",
+      "title": "Higher Secondary Certificate",
+      "org": "Ideal College, Dhaka",
+      "desc": "Group: Science."
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Python",
+      "pct": 82
+    },
+    {
+      "id": 2,
+      "name": "n8n Automation",
+      "pct": 78
+    },
+    {
+      "id": 3,
+      "name": "Cybersecurity",
+      "pct": 75
+    },
+    {
+      "id": 4,
+      "name": "Google Ads & GTM",
+      "pct": 88
+    },
+    {
+      "id": 5,
+      "name": "GA4 & Server-Side Tracking",
+      "pct": 85
+    },
+    {
+      "id": 6,
+      "name": "SQL / Databases",
+      "pct": 80
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "SEO Forge",
+      "year": "2024",
+      "excerpt": "Automated SEO content generation and analysis system with AI integration.",
+      "desc": "A full-stack SEO automation platform that generates, analyzes, and optimizes content at scale. Integrates with Google Search Console and uses AI for keyword clustering and content gap analysis.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "OpenAI",
+        "Google SC API",
+        "PostgreSQL"
+      ],
+      "thumb": "./assets/img/IMG_8628.jpg",
+      "thumbEmoji": "🔍",
+      "liveUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "n8n Sales Agent",
+      "year": "2024",
+      "excerpt": "Outbound sales automation pipeline with Apollo and Gmail integration.",
+      "desc": "An n8n-powered outbound sales pipeline that automates lead discovery via Apollo.io, personalizes outreach through AI, and fires sequenced emails via Gmail API. Reduced manual prospecting time by 80%.",
+      "tags": [
+        "n8n",
+        "Apollo API",
+        "Gmail API",
+        "AI",
+        "Node.js"
+      ],
+      "thumb": "",
+      "thumbEmoji": "🤖",
+      "liveUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "VARECON Recon Framework",
+      "year": "2024",
+      "excerpt": "24-module Python reconnaissance framework for security research.",
+      "desc": "A modular Python-based recon framework with 24 independent modules covering subdomain enumeration, port scanning, OSINT collection, and vulnerability correlation. Built for structured bug bounty workflows.",
+      "tags": [
+        "Python",
+        "Asyncio",
+        "OSINT",
+        "Security",
+        "CLI"
+      ],
+      "thumb": "",
+      "thumbEmoji": "🛡️",
+      "liveUrl": "#"
+    },
+    {
+      "id": 4,
+      "title": "RAG Personal Assistant",
+      "year": "2024",
+      "excerpt": "FastAPI + FAISS powered personal AI assistant with document retrieval.",
+      "desc": "A local-first RAG (Retrieval Augmented Generation) assistant built with FastAPI, FAISS vector store, and Groq inference. Supports PDF ingestion, semantic search, and multi-turn conversation history.",
+      "tags": [
+        "FastAPI",
+        "FAISS",
+        "Groq",
+        "LangChain",
+        "Python"
+      ],
+      "thumb": "",
+      "thumbEmoji": "💬",
+      "liveUrl": "#"
+    }
+  ]
+}
